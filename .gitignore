@@ -4,3 +4,7 @@
 build/
 gradlew
 gradlew.bat
+gradle/
+build.gradle.kts
+settings.gradle.kts
+gradle.properties
